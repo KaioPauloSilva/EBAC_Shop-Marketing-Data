@@ -1,4 +1,4 @@
 pandas
 streamlit
 numpy
-xlsxwriter
+XlsxWriter
